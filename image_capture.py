@@ -7,7 +7,7 @@ import time
 
 # --------> CAPITAL NAMES ONLY <--------
 
-person_name = "ERJAN"
+person_name = ""
 
 def create_folder(subject):
     dataset_folder = "dataset"
