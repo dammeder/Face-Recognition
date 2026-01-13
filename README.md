@@ -75,7 +75,7 @@ python image_capture.py
 # Train model --- Press SPACE to take picture ( 20-30 per person works fine, take pictures from different angles & different lighting ), 
 python model_training.py
 
-Press q to exit the video window.
+# Press q to exit the video window.
 
 # Run model
 # In facial_recognition.py, you can change how often faces are processed:
@@ -85,4 +85,4 @@ Press q to exit the video window.
 # cv_scale can also be changed based on the distance you would like the model to recognize faces from. cv_scale trades recognition distance for speed — higher is faster, lower sees farther.
 python facial_recognition.py
 
-#Press q to exit the video window.
+# Press q to exit the video window.
