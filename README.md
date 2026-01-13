@@ -72,8 +72,10 @@ pip install -r requirements.txt
 # Capture face images 
 python image_capture.py
 
-# Train model --- Press SPACE to take picture ( 20-30 per person works fine, take pictures from different angles & different lighting ), Press q to exit the video window.
+# Train model --- Press SPACE to take picture ( 20-30 per person works fine, take pictures from different angles & different lighting ), 
 python model_training.py
+
+Press q to exit the video window.
 
 # Run model
 # In facial_recognition.py, you can change how often faces are processed:
